@@ -77,7 +77,7 @@ Lower RMSLE indicates better predictive performance.
 
 ##  Results
 
-Best validation RMSLE: **0.19838**
+* Best validation RMSLE: **0.19838**
 ---
 
 ##  Technologies & Skills
